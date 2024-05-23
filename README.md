@@ -1,8 +1,14 @@
-# React + Vite
+# _Day 22 Task_
+### _**React_Price_Card**_
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- [_**React_Price_Card Deploy**_](https://price-card-eosin.vercel.app/)
 
-Currently, two official plugins are available:
+- [_**React_Price_Card Folder**_](./)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [_**React_Price_Card HTML**_](./index.html)
+
+- [_**React_Price_Card CSS**_](./src/App.css)
+
+- [_**React_Price_Card  Main JSX**_](./src/main.jsx)
+
+- [_**React_Price_Card  App JSX**_](./src/App.jsx)
