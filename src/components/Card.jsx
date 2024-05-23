@@ -1,6 +1,6 @@
 const Card = (data) => {
   const arr = [
-    "Single User",
+    data.user,
     "50GB Storage",
     "Unlimited Public Projects",
     "Community Access",
